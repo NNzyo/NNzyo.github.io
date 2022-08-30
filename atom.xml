@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nnzyo.github.io</id>
     <title>NZ的杂货铺</title>
-    <updated>2022-08-30T06:32:26.035Z</updated>
+    <updated>2022-08-30T06:38:22.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nnzyo.github.io"/>
     <link rel="self" href="https://nnzyo.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://nnzyo.github.io/post/welcome-my-friend/">
         </link>
         <updated>2022-08-29T10:10:02.000Z</updated>
-        <content type="html"><![CDATA[<p>欢迎来到本店,本店是做些小本经营的杂货店,欢迎常来拜访~</p>
+        <content type="html"><![CDATA[<p>欢迎来到本店,本店是做些小本经营的杂货店,欢迎常来拜访~<br>
+如果想坐下来一起聊天的话,去<a href="https://nnzyo.github.io/post/about" target="_blue">摊贩</a>那找我吧~</p>
 ]]></content>
     </entry>
 </feed>
