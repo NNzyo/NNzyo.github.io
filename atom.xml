@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nnzyo.github.io</id>
+    <title>NNZ的杂货铺</title>
+    <updated>2024-08-01T17:42:10.873Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nnzyo.github.io"/>
+    <link rel="self" href="https://nnzyo.github.io/atom.xml"/>
+    <subtitle>欢迎来到我的小基地，这里会发表一些与&lt;a href=&quot;/post/about&quot; target=&quot;_blue&quot;&gt; 我自己&lt;/a&gt;的兴趣爱好，这里以后也会发展得越来越大，欢迎常来光顾~</subtitle>
+    <logo>https://nnzyo.github.io/images/avatar.png</logo>
+    <icon>https://nnzyo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, NNZ的杂货铺</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Minecraft Server (1.20.1)]]></title>
+        <id>https://nnzyo.github.io/post/minecraft-server-1.20.1/</id>
+        <link href="https://nnzyo.github.io/post/minecraft-server-1.20.1/">
+        </link>
+        <updated>2024-08-01T17:26:32.000Z</updated>
+        <content type="html"><![CDATA[<p>原版生存~</p>
+<p>Java原版服务器(生存)</p>
+<p>目前版本：1.20.1</p>
+<blockquote>
+<p>注意：本服有正版验证！</p>
+</blockquote>
+<p>MOD列表：<br>
+没有捏，但不反对个人添加辅助类mod。<br>
+推荐使用fabric的钠(https://www.mcmod.cn/class/2785.html)与其附属mod优化游戏体验。</p>
+<p><em>不乖的孩子我们会/ban掉的哦~</em></p>
+<p>📋服务器公告:<br>
+请不要打扰在钓鱼的人，因为他可能是挂机钓鱼。</p>
+<p>💻服务器地址：<br>
+60.215.128.73:48924</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎光临~新老朋友~]]></title>
+        <id>https://nnzyo.github.io/post/welcome/</id>
+        <link href="https://nnzyo.github.io/post/welcome/">
+        </link>
+        <updated>2022-08-29T10:10:02.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到本店,本店是不买东西的杂货店,欢迎常来拜访~</p>
+]]></content>
+    </entry>
+</feed>
