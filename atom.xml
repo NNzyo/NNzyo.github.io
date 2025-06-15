@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NNzyo.github.io</id>
+    <title>NNZの收藏夹</title>
+    <updated>2025-06-15T08:32:40.380Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NNzyo.github.io"/>
+    <link rel="self" href="https://NNzyo.github.io/atom.xml"/>
+    <subtitle>关注霁月喵</subtitle>
+    <logo>https://NNzyo.github.io/images/avatar.png</logo>
+    <icon>https://NNzyo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, NNZの收藏夹</rights>
+    <entry>
+        <title type="html"><![CDATA[Bro的新视频！]]></title>
+        <id>https://NNzyo.github.io/post/new-vdo/</id>
+        <link href="https://NNzyo.github.io/post/new-vdo/">
+        </link>
+        <updated>2025-06-15T08:23:29.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>多说无益，请看！</p>
+</blockquote>
+<h1 id="快速观看">快速观看🎞</h1>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114445376292886&bvid=BV1iiGozMEf6&cid=29777069345&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<h1 id="地址跳转">地址跳转🔗</h1>
+<p><a href="https://www.bilibili.com/video/BV1iiGozMEf6" target="_blue">【当你和喜欢玩鬼泣的朋友玩mc】 https://www.bilibili.com/video/BV1iiGozMEf6</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎！随便看看吧！]]></title>
+        <id>https://NNzyo.github.io/post/welcome/</id>
+        <link href="https://NNzyo.github.io/post/welcome/">
+        </link>
+        <updated>2025-06-15T06:38:58.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这里没有什么，去别处看看吧！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小说]]></title>
+        <id>https://NNzyo.github.io/post/novel/</id>
+        <link href="https://NNzyo.github.io/post/novel/">
+        </link>
+        <updated>2025-06-15T06:34:25.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>低创 文笔烂 慎看？</p>
+</blockquote>
+<p>#少女与赛车🚗</p>
+<blockquote>
+<p>bro有一天玩ea wrc和看小说看魔怔了，突发奇想开的新坑<br>
+<a href="/post/shao-nu-yu-sai-che" target="_blue">点击阅读</a></p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
